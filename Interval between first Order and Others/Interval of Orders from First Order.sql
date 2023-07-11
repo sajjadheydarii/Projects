@@ -1,5 +1,3 @@
-use DataWarehouse
-go
 
 DECLARE
 	@StartDate DATE = '2020-01-01',
